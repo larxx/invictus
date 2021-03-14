@@ -1,0 +1,39 @@
+{
+  "name": "invictus",
+  "displayName": "Invictus",
+  "description": "A beautiful and calm dark theme for vscode.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "publisher": "larxx",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larxx/invictus"
+  },
+  "galleryBanner": {
+    "color": "#1b1f23",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "vscode theme",
+    "dark",
+    "dark theme",
+    "invictus",
+    "invictus theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Invictus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/invictus.json"
+      }
+    ]
+  }
+}
