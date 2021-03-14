@@ -2,7 +2,7 @@
   "name": "invictus",
   "displayName": "Invictus",
   "description": "A beautiful and calm dark theme for vscode.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "publisher": "larxx",
   "engines": {
