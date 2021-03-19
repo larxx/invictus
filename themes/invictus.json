@@ -337,7 +337,7 @@
     {
       "scope": ["entity.name.type.interface"],
       "settings": {
-        "foreground": "#A78BFA"
+        "foreground": "#FDBA74"
       }
     },
     {
@@ -349,7 +349,7 @@
     {
       "scope": ["entity.name.type", "entity.name.type.alias.ts"],
       "settings": {
-        "foreground": "#A78BFA"
+        "foreground": "#FDBA74"
       }
     },
     {
