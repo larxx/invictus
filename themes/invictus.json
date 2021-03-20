@@ -61,7 +61,7 @@
     "editorOverviewRuler.border": "#30363d",
     "editorWhitespace.foreground": "#6e7681",
     "editorWidget.background": "#191E24",
-    "editorSuggestWidget.selectedBackground": "#1D4ED822",
+    "editorSuggestWidget.selectedBackground": "#0c2d6b",
     "errorForeground": "#f85149",
     "focusBorder": "#388bfd",
     "foreground": "#c9d1d9",
@@ -689,7 +689,11 @@
       }
     },
     {
-      "scope": ["variable.other.property.js", "variable.other.property.ts"],
+      "scope": [
+        "variable.other.property.js",
+        "variable.other.property.ts",
+        "variable.other.property.tsx"
+      ],
       "settings": {
         "foreground": "#7DD3FC"
       }
