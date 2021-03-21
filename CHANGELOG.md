@@ -4,6 +4,10 @@ All notable changes to the "perseverance" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.5]
+
+- Adjusted some syntax and UI colors
+
 ## [1.0.4]
 
 - Adjusted comment color

@@ -79,10 +79,10 @@
     "list.activeSelectionBackground": "#1a1f25",
     "list.activeSelectionForeground": "#c9d1d9",
     "list.focusBackground": "#101316",
-    "list.hoverBackground": "#222931",
+    "list.hoverBackground": "#181F26",
     "list.hoverForeground": "#c9d1d9",
     "list.inactiveFocusBackground": "#1a1f25",
-    "list.inactiveSelectionBackground": "#222931",
+    "list.inactiveSelectionBackground": "#181F26",
     "list.inactiveSelectionForeground": "#c9d1d9",
     "menu.background": "#191E24",
     "notificationCenterHeader.background": "#191E24",
@@ -116,7 +116,7 @@
     "settings.modifiedItemIndicator": "#2563EB",
     "sideBar.background": "#12181F",
     "sideBar.border": "#30363d",
-    "sideBar.foreground": "#9CA3AF",
+    "sideBar.foreground": "#6B7280",
     "sideBarSectionHeader.background": "#12181F",
     "sideBarSectionHeader.border": "#30363d",
     "sideBarSectionHeader.foreground": "#dce2e7",
@@ -343,7 +343,7 @@
     {
       "scope": ["entity.name.type.class"],
       "settings": {
-        "foreground": "#A78BFA"
+        "foreground": "#FDBA74"
       }
     },
     {
@@ -642,7 +642,7 @@
     {
       "scope": "support.class",
       "settings": {
-        "foreground": "#A78BFA"
+        "foreground": "#FDBA74"
       }
     },
     {
