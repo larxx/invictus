@@ -2,9 +2,10 @@
   "name": "invictus",
   "displayName": "Invictus",
   "description": "A beautiful and calm dark theme for vscode.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "icon": "icon.png",
   "publisher": "larxx",
+  "homepage": "https://invictus-theme.vercel.app/",
   "engines": {
     "vscode": "^1.53.0"
   },
